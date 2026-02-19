@@ -40,11 +40,11 @@ For some early results based on this dataset, see:
 
 ## Summary statistics and update status
 
-- Total medalists: 333
-- Total medalists with place of birth recorded in Wikidata: 314
-- Total medalists with place of birth recorded in a NUTS region: 220
+- Total medalists: 426
+- Total medalists with place of birth recorded in Wikidata: 396
+- Total medalists with place of birth recorded in a NUTS region: 274
 
-Last updated: 2026-02-17 09:33
+Last updated: 2026-02-19 13:35
 
 ## Credits
 

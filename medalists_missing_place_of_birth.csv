@@ -1,6 +1,11 @@
 event_name,medal,medalist_name,medalist_wikidata_id,country_medal,delegation_name,sex_or_gender
+biathlon at the 2026 Winter Olympics – men's relay,silver,Martin Uldal,Q116255527,Norway,Norway at the 2026 Winter Olympics,male
+biathlon at the 2026 Winter Olympics – men's relay,bronze,Viktor Brandt,Q124335093,Sweden,Sweden at the 2026 Winter Olympics,male
 biathlon at the 2026 Winter Olympics – women's sprint,gold,Maren Kirkeeide,Q115471517,Norway,Norway at the 2026 Winter Olympics,female
 biathlon at the 2026 Winter Olympics – women's pursuit,silver,Maren Kirkeeide,Q115471517,Norway,Norway at the 2026 Winter Olympics,female
+biathlon at the 2026 Winter Olympics – women's relay,bronze,Maren Kirkeeide,Q115471517,Norway,Norway at the 2026 Winter Olympics,female
+bobsleigh at the 2026 Winter Olympics – two-man,bronze,Adam Ammour,Q123907933,Germany,Germany at the 2026 Winter Olympics,male
+bobsleigh at the 2026 Winter Olympics – two-man,bronze,Alexander Schaller,Q137766694,Germany,Germany at the 2026 Winter Olympics,male
 cross-country skiing at the 2026 Winter Olympics – men's 4 × 7.5 kilometre relay,bronze,Martino Carollo,Q131597597,Italy,Italy at the 2026 Winter Olympics,male
 cross-country skiing at the 2026 Winter Olympics – men's sprint,bronze,Oskar Opstad Vike,Q131322045,Norway,Norway at the 2026 Winter Olympics,male
 cross-country skiing at the 2026 Winter Olympics – women's 4 × 7.5 kilometre relay,gold,Kristin Austgulen Fosnæs,Q105336684,Norway,Norway at the 2026 Winter Olympics,female
@@ -9,6 +14,7 @@ cross-country skiing at the 2026 Winter Olympics – women's 4 × 7.5 kilometre 
 figure skating at the 2026 Winter Olympics – pair skating,silver,Anastasia Metelkina,Q106230055,Georgia,Georgia at the 2026 Winter Olympics,female
 freestyle skiing at the 2026 Winter Olympics – men's slopestyle,bronze,Luca Harrington,Q81903468,New Zealand,New Zealand at the 2026 Winter Olympics,male
 short-track speed skating at the 2026 Winter Olympics – women's 1000 metres,bronze,Kim Gil-li,Q119520379,South Korea,South Korea at the 2026 Winter Olympics,female
+short-track speed skating at the 2026 Winter Olympics – women's 3000 metre relay,gold,Kim Gil-li,Q119520379,South Korea,South Korea at the 2026 Winter Olympics,female
 skeleton at the 2026 Winter Olympics – men's,gold,Matt Weston,Q104290722,United Kingdom,Great Britain at the 2026 Winter Olympics,male
 skeleton at the 2026 Winter Olympics – mixed team,gold,Matt Weston,Q104290722,United Kingdom,Great Britain at the 2026 Winter Olympics,male
 ski jumping at the 2026 Winter Olympics – men's large hill team,bronze,Kristoffer Eriksen Sundal,Q109571697,Norway,Norway at the 2026 Winter Olympics,male
@@ -16,5 +22,10 @@ ski jumping at the 2026 Winter Olympics – women's large hill individual,silver
 ski jumping at the 2026 Winter Olympics – mixed team,silver,Kristoffer Eriksen Sundal,Q109571697,Norway,Norway at the 2026 Winter Olympics,male
 ski jumping at the 2026 Winter Olympics – mixed team,silver,Eirin Kvandal,Q101045904,Norway,Norway at the 2026 Winter Olympics,female
 snowboarding at the 2026 Winter Olympics – women's halfpipe,gold,Choi Ga-On,Q116473281,South Korea,South Korea at the 2026 Winter Olympics,female
+snowboarding at the 2026 Winter Olympics – women's slopestyle,gold,Mari Fukada,Q115850826,Japan,Japan at the 2026 Winter Olympics,female
 snowboarding at the 2026 Winter Olympics – mixed team snowboard cross,bronze,Léa Casta,Q115598007,France,France at the 2026 Winter Olympics,female
 speed skating at the 2026 Winter Olympics – men's 5000 metres,gold,Sander Eitrem,Q81902745,Norway,Norway at the 2026 Winter Olympics,male
+speed skating at the 2026 Winter Olympics – men's team pursuit,bronze,Wenhao Li,Q138330984,People's Republic of China,China at the 2026 Winter Olympics,male
+speed skating at the 2026 Winter Olympics – men's team pursuit,bronze,Hanbin Liu,Q138058973,People's Republic of China,China at the 2026 Winter Olympics,male
+speed skating at the 2026 Winter Olympics – men's team pursuit,bronze,Wu Yu,Q27970251,People's Republic of China,China at the 2026 Winter Olympics,male
+speed skating at the 2026 Winter Olympics – women's team pursuit,bronze,Hana Noake,Q136808323,Japan,Japan at the 2026 Winter Olympics,female
