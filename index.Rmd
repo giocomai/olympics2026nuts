@@ -760,8 +760,8 @@ place_of_birth_table %>%
 
 ```{r medalists_missing_place_of_birth overwrite_cache, eval = FALSE}
 # re-check from Wikidata missing data to see if they have been added
-readr::read_csv("medalists_missing_place_of_birth.csv", show_col_types = FALSE) %>% 
-  dplyr::pull(medalist_wikidata_id) %>% 
+readr::read_csv("medalists_missing_place_of_birth.csv", show_col_types = FALSE) |> 
+  dplyr::pull(medalist_wikidata_id) |> 
   tw_get(overwrite_cache = TRUE)
 ```
 
