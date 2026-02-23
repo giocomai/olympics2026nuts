@@ -280,6 +280,8 @@ all_medalists_df$delegation_link[all_medalists_df$event_link=="/wiki/Alpine_skii
 
 all_medalists_df$delegation_link[all_medalists_df$event_link=="/wiki/Ski_jumping_at_the_2026_Winter_Olympics_%E2%80%93_Men%27s_normal_hill_individual"&all_medalists_df$medalist_link=="/wiki/Gregor_Deschwanden"] <- "/wiki/Switzerland_at_the_2026_Winter_Olympics"
 
+all_medalists_df$delegation_link[all_medalists_df$event_link=="/wiki/Alpine_skiing_at_the_2026_Winter_Olympics_%E2%80%93_Women%27s_giant_slalom"&all_medalists_df$medalist_link=="/wiki/Sara_Hector"] <- "/wiki/Sweden_at_the_2026_Winter_Olympics"
+
 
 
 all_medalists_df %>% 
